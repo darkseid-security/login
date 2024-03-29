@@ -6,13 +6,14 @@ Protected against cross-site-scripting,SQL Injection,Server-Side-Template-Inject
 
 TODO
 ================================
-- Add a better UI/UX design
-- Add Rate Limiting for login/register functions
+- Add a Better UI/UX Design
+- Add Rate Limiting for Login/Register Functions
 - Add Google CAPTCHA V2 to login/register functions
 - Add Expirary to Cookies
-- Ban the IP if Web server gets too many login attempts
+- Ban the IP of the Attacker if Rate Limit gets Exceeded
 - Add 2FA
-- Add function to change password
-- Add validation for minimum password required for signup
+- Add Function to Change Password
+- Add Validation for Minimum Password Required for Signup
+- Add a small WAF(Web Application Firewall) Function to Detect Malicious Scripts
 
 Currently working on V2
