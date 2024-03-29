@@ -11,5 +11,8 @@ TODO
 - Add Google CAPTCHA V2 to login/register functions
 - Add Expirary to Cookies
 - Ban the IP if Web server gets too many login attempts
+- Add 2FA
+- Add function to change password
+- Add validation for minimum password required for signup
 
 Currently working on V2
